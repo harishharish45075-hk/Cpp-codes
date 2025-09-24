@@ -1,5 +1,5 @@
 #include<iostream>
-using nmaespace std;
+using namespace std;
 class addition{
 int num1,num2;
 public:
